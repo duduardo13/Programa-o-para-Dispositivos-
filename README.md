@@ -7,5 +7,5 @@
 
 | Trabalho Prático | Pasta   | URL no GitHub                                                      | Data da Entrega |
 | ---------------- | ------- | ------------------------------------------------------------------ | --------------- |
-| TP1              | `./TP1` | [TP1]() | 11/09/2025      |
-| TP2              | `./TP2` | [TP2]() | 02/10/2025      |
+| TP1              | `./TP1` | [TP1](https://github.com/duduardo13/Programa-o-para-Dispositivos-/tree/main/TP2) | 11/09/2025      |
+| TP2              | `./TP2` | [TP2](https://github.com/duduardo13/Programa-o-para-Dispositivos-/tree/main/TP1) | 02/10/2025      |
