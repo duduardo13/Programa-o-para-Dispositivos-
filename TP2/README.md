@@ -12,6 +12,6 @@ Aplicação móvel de gerenciamento de tarefas desenvolvida em **.NET MAUI** par
 ## ✒️ Autores
 
 | Desenvolvedor 
-| :--- | :--- |
+| :--- |
 | **Eduardo Barbosa Rodrigues** 
 | **Vincius Pontes Oliva** |
